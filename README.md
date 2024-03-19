@@ -12,18 +12,15 @@ I'm not just about coding; when I'm not developing, you'll often find me gaming 
 
 Currently, I'm building a 120-short course on Learnworlds tailored for young people, focusing on essential digital skills and personal development. Additionally, within The Articulate Hub project, I'm leading the development of two key features:
 
-- **The Vault**: A secure digital storage space for young people to store important documents and memories.
+- **The Vault**: A secure digital storage space for young people to store important documents and memories. 
+  [![Vault](https://img.shields.io/badge/Access-Vault-brightgreen)](https://www.example.com/vault)
 - **Buddy AI**: An AI-driven support system aimed at providing personalized assistance and guidance to users.
-
-## 💞️ I’m looking to collaborate on ...
-
-- Open-source projects related to youth empowerment
-- Initiatives focused on improving digital access and inclusion
-- Innovative solutions to address challenges faced by young people with care experience
+- **Studio**: A platform for personal storytelling and expression.
+  [![Studio](https://img.shields.io/badge/Access-Studio-blue)](https://www.example.com/studio)
 
 ## 📫 How to reach me ...
 
-Feel free to reach out to me via email at Jasongillan@Articulatehub.com.
+Feel free to reach out to me via email at [![Email](https://img.shields.io/badge/Email-Jasongillan%40Articulatehub.com-blue)](mailto:Jasongillan@Articulatehub.com).
 
 ## 😄 Pronouns:
 
