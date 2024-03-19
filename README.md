@@ -17,7 +17,7 @@ Currently, I'm building a 120-short course on Learnworlds tailored for young peo
 - **The Vault**: A secure digital storage space for young people to store important documents and memories. 
   [![Vault](https://img.shields.io/badge/Access-Vault-brightgreen)](https://vault.articulatehub.com/)
 - **Buddy AI**: An AI-driven support system aimed at providing personalized assistance and guidance to users.
-- **Studio**: A platform for personal storytelling and expression.
+- **The Studio**: A platform for personal storytelling and expression.
   [![Studio](https://img.shields.io/badge/Access-Studio-blue)](http://studio.articulatehub.com/)
 
 ## 😄 Pronouns:
