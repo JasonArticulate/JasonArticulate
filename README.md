@@ -1,3 +1,5 @@
+![Banner](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+
 <div align="center">
   <h1>👋 Hi, I’m Jason!</h1>
   <p>Welcome to my GitHub profile!</p>
@@ -5,8 +7,8 @@
 </div>
 
 ## 👀 About Me
+I'm Jason, a Backend Developer at Articulate Cultural Trust in Glasgow. I'm not just about coding; when I'm not developing, you'll often find me gaming on PS4/PS5, exploring virtual worlds, and spending time with my family. As a developer, I specialize in HTML, CSS, JavaScript, C#, and C++, crafting interactive and user-friendly web experiences and applications. Additionally, I enjoy modding applications for PS4 and decompiling scripts from PC to PS4 for games like BO3.
 
-I'm not just about coding; when I'm not developing, you'll often find me gaming on PS4/PS5, exploring virtual worlds, and spending time with my family. As a developer, I specialize in HTML, CSS, JavaScript, C#, and C++, crafting interactive and user-friendly web experiences and applications.
 
 ## 🌱 What I'm Working On
 
