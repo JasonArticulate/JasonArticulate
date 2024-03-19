@@ -24,7 +24,7 @@
 
 ## 📫 How to reach me ...
 
-Feel free to reach out to me via email at [jason@articulatetrust.org](mailto:jason@articulatetrust.org) or connect with me on [LinkedIn](https://www.linkedin.com/in/jasonarticulate).
+Feel free to reach out to me via email at Jasongillan@Articulatehub.com.
 
 ## 😄 Pronouns:
 
@@ -32,4 +32,4 @@ He/Him
 
 ## ⚡ Fun fact:
 
-I'm an avid rock climber and love exploring the Scottish Highlands in my free time!
+This is just my first project , i have alot of stuff to uploud :D 
