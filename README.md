@@ -13,10 +13,10 @@ I'm not just about coding; when I'm not developing, you'll often find me gaming 
 Currently, I'm building a 120-short course on Learnworlds tailored for young people, focusing on essential digital skills and personal development. Additionally, within The Articulate Hub project, I'm leading the development of two key features:
 
 - **The Vault**: A secure digital storage space for young people to store important documents and memories. 
-  [![Vault](https://img.shields.io/badge/Access-Vault-brightgreen)](https://www.example.com/vault)
+  [![Vault](https://img.shields.io/badge/Access-Vault-brightgreen)](https://vault.articulatehub.com/)
 - **Buddy AI**: An AI-driven support system aimed at providing personalized assistance and guidance to users.
 - **Studio**: A platform for personal storytelling and expression.
-  [![Studio](https://img.shields.io/badge/Access-Studio-blue)](https://www.example.com/studio)
+  [![Studio](https://img.shields.io/badge/Access-Studio-blue)](http://studio.articulatehub.com/)
 
 ## 📫 How to reach me ...
 
