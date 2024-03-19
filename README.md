@@ -3,7 +3,7 @@
 <div align="center">
   <h1>👋 Hi, I’m Jason!</h1>
   <p>Welcome to my GitHub profile!</p>
-  <p>I'm Jason, a Backend Developer at Articulate Cultural Trust based in Glasgow. I'm passionate about leveraging technology to empower young people with care experience through projects like The Articulate Hub.</p>
+  <p>I'm Jason, a Digital Assistant at Articulate Cultural Trust based in Glasgow. I'm passionate about leveraging technology to empower young people with care experience through projects like The Articulate Hub.</p>
 </div>
 
 ## 👀 About Me
