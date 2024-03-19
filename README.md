@@ -6,7 +6,7 @@
 
 ## 👀 About Me
 
-I'm not just about coding; when I'm not developing, you'll often find me gaming on PS4/PS5, exploring virtual worlds and connecting with friends. As a developer, I specialize in HTML, CSS, and JavaScript, crafting interactive and user-friendly web experiences.
+I'm not just about coding; when I'm not developing, you'll often find me gaming on PS4/PS5, exploring virtual worlds, and spending time with my family. As a developer, I specialize in HTML, CSS, JavaScript, C#, and C++, crafting interactive and user-friendly web experiences and applications.
 
 ## 🌱 What I'm Working On
 
@@ -31,4 +31,5 @@ He/Him
 
 ## ⚡ Fun fact:
 
-When I'm not coding or working, you can catch me spending time with my misses and daughter! 
+When I'm not coding or working, you can catch me spending time with my family, gaming, or exploring new technologies.
+
