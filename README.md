@@ -4,17 +4,16 @@
   <p>I'm Jason, a Backend Developer at Articulate Cultural Trust based in Glasgow. I'm passionate about leveraging technology to empower young people with care experience through projects like The Articulate Hub.</p>
 </div>
 
-## 👀 I’m interested in ...
+## 👀 About Me
 
-- Building scalable and secure digital platforms
-- Creating meaningful experiences for young people
-- Collaborating with like-minded individuals to drive positive change
+I'm not just about coding; when I'm not developing, you'll often find me gaming on PS4/PS5, exploring virtual worlds and connecting with friends. As a developer, I specialize in HTML, CSS, and JavaScript, crafting interactive and user-friendly web experiences.
 
-## 🌱 I’m currently learning ...
+## 🌱 What I'm Working On
 
-- Advanced backend development techniques
-- Best practices in user experience design
-- Strategies for community engagement and support
+Currently, I'm building a 120-short course on Learnworlds tailored for young people, focusing on essential digital skills and personal development. Additionally, within The Articulate Hub project, I'm leading the development of two key features:
+
+- **The Vault**: A secure digital storage space for young people to store important documents and memories.
+- **Buddy AI**: An AI-driven support system aimed at providing personalized assistance and guidance to users.
 
 ## 💞️ I’m looking to collaborate on ...
 
@@ -32,4 +31,4 @@ He/Him
 
 ## ⚡ Fun fact:
 
-This is just my first project , i have alot of stuff to uploud :D 
+When I'm not coding or working, you can catch me spending time with my misses and daughter! 
