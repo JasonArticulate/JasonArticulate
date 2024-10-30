@@ -2,86 +2,110 @@
 
 <div align="center">
   <h1>👋 Hi, I’m Jason Gillan!</h1>
-  <p>Welcome to my GitHub profile! I'm a Digital Assistant at Articulate Cultural Trust, based in Glasgow, focused on creating inclusive and trauma-informed digital platforms for young people with care experience.</p>
+  <p>Welcome to my GitHub profile! I'm a Digital Assistant at Articulate Cultural Trust, focused on creating inclusive and trauma-informed digital platforms. When I'm not working, you'll find me modding game consoles and diving into cybersecurity and programming.</p>
 </div>
 
 ---
 
 ## 👀 About Me
-🧑‍💻 I’m a self-motivated developer with experience across diverse industries, from customer service to IT. With expertise in cybersecurity, programming, and community support, I bridge the gap between technical skills and human-centred solutions.
+I’m a versatile tech professional with experience across multiple industries, from customer service to IT. I’m passionate about using my skills to create secure and impactful digital solutions, especially for young people with care experience. I also enjoy working on game modding projects, with a specific interest in **PS4**, **PS5**, and **PS3** modifications, bringing customised gaming experiences to the community.
 
 ---
 
 ## 🌱 Current Projects
 
-I’m actively involved in **The Articulate Hub**, a platform supporting young people with care experience. Key features include:
+### **The Articulate Hub**
+I’m actively involved in **The Articulate Hub**, a digital platform designed to support young people with care experience. Key features include:
 
-- **The Vault**: Secure storage for personal documents and memories.  
+- **The Vault**: A secure, personal storage space for young users to store documents and memories.  
   [![Vault](https://img.shields.io/badge/Access-Vault-brightgreen)](https://vault.articulatehub.com/)
 
-- **Buddy AI**: An AI-powered digital assistant offering personalised support.
+- **Buddy AI**: An AI-powered digital assistant that provides personalised support, assisting users with guidance and resources.
 
-- **The Studio**: An interactive space with 120+ courses on digital skills, creativity, and personal growth.  
+- **The Studio**: An interactive space offering 120+ courses covering digital skills, creativity, and personal development.  
   [![Studio](https://img.shields.io/badge/Access-Studio-blue)](http://studio.articulatehub.com/)
 
-![Project Preview](https://user-images.githubusercontent.com/example-image.gif) <!-- Add a project preview if available -->
-
 ---
 
-## 💼 Work Experience
+## 💼 Professional Experience
 
-- **Workshop Assistant** - *Articulate, Glasgow*  
-  *Apr 2022 - Dec 2023*  
-  Facilitated art workshops, helping young participants develop teamwork and life skills.
+- **Digital Assistant & IT Support** - *Articulate Cultural Trust*  
+  *Apr 2022 - Present*  
+  - Developed and managed The Articulate Hub, a trauma-informed digital platform.
+  - Provided backend support and troubleshooting for The Vault and The Studio.
+  - Implemented cybersecurity measures to ensure data privacy for young users.
+  - Conducted workshops on digital skills and guided young participants in safe online practices.
 
-- **Cleaner** - *Cleaning Ninja Scotland, Glasgow*  
+- **Self-Employed Cleaner & Client Manager**  
   *Present*  
-  Self-employed cleaner for high-end clients, handling shift and client management.
+  Managed cleaning operations for high-end clients, overseeing shift management, client relations, and time management.
 
-- **Cook/Team Member** - *Sodexo, Glasgow*  
+- **Cook & Customer Service Team Member**  
   *Sep 2022 - Present*  
-  Delivered high-quality food services at Celtic Park, maintaining hygiene and customer service standards.
+  - Ensured customer satisfaction by providing high-quality food and maintaining a clean environment.
+  - Gained insights into customer service dynamics and team collaboration in a fast-paced environment.
 
-- **Warehouse Operative** - *Housewares, Glasgow*  
+- **Warehouse Operative**  
   *Aug 2019 - Mar 2020*  
-  Managed inventory, operated equipment, and adhered to health and safety protocols.
+  - Managed inventory and logistics, operated ERP systems, and adhered to strict health and safety protocols.
 
 ---
 
-## 🛠 Skills
+## 🎮 Gaming & Console Modding
+
+Beyond my professional work, I am deeply engaged in the gaming community, particularly in console modding. Here are some of my modding projects and specialisations:
+
+- **PS4/PS5 Modding**: Experienced in decompiling scripts, customising game files, and modding for enhanced gameplay in popular FPS titles like *Call of Duty*.
+- **PS3 Modding**: Proficient in using tools like Webman and Rebug to load games from external drives, troubleshoot compatibility issues, and optimise system performance.
+- **Homebrew Development**: Skilled in installing and managing homebrew applications to unlock additional functionality on PS4 and PS3 consoles.
+- **Game Modifications**: Familiar with creating and deploying custom mods that adjust game dynamics, textures, and interfaces for a tailored gaming experience.
+- **Multiplayer Modding**: Special interest in multiplayer FPS games, focusing on optimising performance, managing in-game assets, and enhancing user experience.
+
+*Example Modding Project Preview:*
+
+![Mod Preview](https://user-images.githubusercontent.com/your-mod-preview.gif) <!-- Add a relevant preview if available -->
+
+---
+
+## 🛠 Technical Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css-%23239120.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-- **Technical**: Cybersecurity, ERP Systems, Forklift Operation, IT Operations
-- **Soft Skills**: Communication, Teamwork, Organisation, Time Management, Self-Motivation
-- **Specialised**: Cash Handling, Customer Service, Cleaning & Sanitation, Warehouse Operations
+- **Programming Languages**: HTML, CSS, JavaScript, C#, C++, Python
+- **Cybersecurity & IT**: Cybersecurity fundamentals, server management, VPN setup, firewall configurations
+- **Gaming Modding Tools**: Rebug, Webman, HEN, custom firmware applications
+- **Other Skills**:
+  - **ERP & Inventory Management**: Experience with ERP systems for warehouse operations
+  - **Customer Service & Cash Handling**: Strong customer service experience, cash handling in high-volume settings
+  - **Warehouse Logistics**: Skilled in order picking, packing, and shipping
 
 ---
 
 ## 📜 Certifications & Education
 
-- **HNC Computing with Networking** *(Aug 2021 - Jul 2022)*
-- **NC Computing with Digital Media** *(Aug 2020 - Jun 2021)*
+- **HNC Computing with Networking** *(Aug 2021 - Jul 2022)* - Skills in network configuration, troubleshooting, and security protocols.
+- **NC Computing with Digital Media** *(Aug 2020 - Jun 2021)* - Focused on media creation, editing software, and digital content management.
 - **National 4 English** *(Aug 2010 - Aug 2017)*
 
 ---
 
 ## 🏆 Awards
 
-- **Creative Assistant Program** *(Aug 2022)*
+- **Creative Assistant Program** *(Aug 2022)* - Recognised for my contribution to community-based creative projects and digital workshops.
 
-> **Note**: “I’m continually looking to expand my certifications and learning through ongoing professional development.”
+> “I’m continually expanding my skill set and certifications to stay up-to-date in both IT and gaming modding.”
 
 ---
 
 ## 💬 Groups & Volunteering
 
-- **GMAC Film Production** - Participated in film projects, supporting young adults in the City Council care system.
-- **Enable Scotland** - Raised funds for charity, supporting individuals with learning impairments.
-- **Achievements in XL** - Organised community events, charity fundraisers, and team-building activities.
+- **GMAC Film Production** - Participated in projects supporting young adults in care systems, focusing on media skills and creative storytelling.
+- **Enable Scotland** - Raised funds for individuals with learning impairments through events and community involvement.
+- **Achievements in XL** - Organised charity events and team-building activities, contributing to community engagement and social development.
 
 ---
 
